@@ -16,12 +16,17 @@ feature1()
 //featute1 code
 }
 
-
 =======
+>>>>>>> feature2
+
 securityPatch()
 {
 //securityPatch code
+
+feature2()
+{
+//feature2 code
+
 }
->>>>>>> master
 
 }
